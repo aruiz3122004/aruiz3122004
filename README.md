@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Andrés Ruiz! 👋</h1>
-<h3 align="center">Systems Engineer & Fullstack Developer | Software Architect</h3>
+<h3 align="center">Systems Engineer & Developer | Software Architect</h3>
 
 <p align="center">
   <!-- You can replace this link with your preferred banner or upload one to your repository -->
-  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Architect+%26+Fullstack+Developer" alt="Banner Software Architect" width="100%">
+  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Architect" alt="Banner Software Architect" width="100%">
 </p>
 
 ---
