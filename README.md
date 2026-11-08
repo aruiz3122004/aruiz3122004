@@ -3,14 +3,14 @@
 
 <p align="center">
   <!-- You can replace this link with your preferred banner or upload one to your repository -->
-  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Architect+%26+Fullstack+Developer" alt="Banner Software Architect & Fullstack" width="100%">
+  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Architect+%26+Fullstack+Developer" alt="Banner Software Architect" width="100%">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Systems Engineer with a diploma in Industry 4.0 technologies[cite: 1]. I specialize in designing **robust software architectures** and implementing them as a **Fullstack Developer**. 
+I am a Systems Engineer with a diploma in Industry 4.0 technologies. I specialize in designing **robust software architectures** and implementing them as a **Fullstack Developer**. 
 - 💡 I am passionate about turning complex ideas into scalable solutions.
 - 🛠️ I have created various software products including **Websites, ERP Systems, and Point of Sale (POS) solutions**.
 - 🤖 To boost my development and productivity, I frequently work with advanced AI tools like **Claude Code / OpenCode** and **Gemini**.
@@ -24,7 +24,7 @@ Here are the technologies and tools I commonly use in my projects:
 <!-- Skill Icons for main technologies -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,html,tailwind,postgres,azure,git,github,cursor" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,tailwind,postgres,azure,git" alt="My Skills" />
   </a>
 </p>
 
