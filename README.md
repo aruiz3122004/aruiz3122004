@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Andrés Ruiz! 👋</h1>
-<h3 align="center">Systems Engineer & Developer | Software Architect</h3>
+<h3 align="center">Systems Engineer & Developer | Software Developer</h3>
 
 <p align="center">
   <!-- You can replace this link with your preferred banner or upload one to your repository -->
-  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Architect" alt="Banner Software Architect" width="100%">
+  <img src="https://via.placeholder.com/900x300/1e1e2e/ffffff?text=Software+Developer" alt="Banner Software Developer" width="100%">
 </p>
 
 ---
@@ -47,7 +47,7 @@ Some of my most notable projects that you can explore on my profile:
 - **🛒 Arshop** - *(E-commerce platform simulating an online store)*  
   [🔗 View Repository](https://github.com/aruiz3122004/arshop.git) | [🌐 View Live Site](https://arshop.arc03.online/)
 
-- **⚡ Nexacode** - *(Upcoming business management ERP, simulating a software vendor company)*  
+- **⚡ Nexacode** - *(Upcoming business management ERP, simulating a software vendor company)*  ⏩🔜
   [🔗 View Repository](https://github.com/aruiz3122004/LINK) | [🌐 View Live Site](LINK)
 
 - **⚙️ Soliwel Ltda.** - *(Corporate website for a company specializing in non-destructive testing services)*  
